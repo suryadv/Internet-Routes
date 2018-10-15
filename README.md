@@ -1,2 +1,2 @@
 # Internet-Routes
-Find all paths from a node to a source based on inputs based 
+Find all paths from a node to a source. Used Shortest path first algorithm.
